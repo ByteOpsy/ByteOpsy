@@ -22,6 +22,7 @@ Feel free to explore and connect!
 - 💻 **Forensic Analysis**: Network Incident Response
 - 🌐 **Forensic Analysis**: Webserver Analysis
 - 🔒 **Digital Forensics**: Financial Fraud Investigation
+- 🕵️‍♂️ **Forensic Analysis**: Antiforensic techniques detection. 
 
 ---
 
