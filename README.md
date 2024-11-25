@@ -18,6 +18,7 @@ Feel free to explore and connect!
 ---
 
 ## 🔑 Key Projects
+- 🔒 **Forensic Analysis**: Cyberbullying on Social Media Platforms Detection. 
 - 🕵️‍♂️ **Forensic Analysis**: Local Incident Response
 - 💻 **Forensic Analysis**: Network Incident Response
 - 🌐 **Forensic Analysis**: Webserver Analysis
