@@ -12,8 +12,9 @@ Feel free to explore and connect!
 - 👮 **Digital Forensics**: Evidence collection, preservation, analysis, reporting, and peer review.
 - 🛡️ **Incident Response**: Local, network, and web server incident response and analysis.
 - 🔍 **Threat Intelligence**: Direction, collection, analysis, and dissemination.
+- 👮 **Ethical Hacking**: Vulnerability Assessment and Penetration Testing.
 - 🌐 **Network Security**: Knowledgeable in network traffic analysis and firewall management.
-- 🛠️ **Tools**: Autopsy, Hunchly, FTK Imager, Volatility, Bulk Extractor, HexEditor, Browser History Examiner, Wireshark, Network Miner, Nmap.
+- 🛠️ **Tools**: Autopsy, Hunchly, FTK Imager, Volatility, Bulk Extractor, HexEditor, Browser History Examiner, Wireshark, Network Miner, Nmap, Metasploit.
 
 ---
 
