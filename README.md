@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am a detail-oriented Digital Forensics Professional passionate and committed to investigating and analyzing cybercrimes. My work revolves around conducting digital forensics processes for various case scenarios and providing recommendations. Here you'll find information about my skills, contributions, and key projects.
+I am a detail-oriented Ethical Hacking and Digital Forensics Professional passionate and committed to investigating and analyzing vulnerabilities, threats, risks and cybercrimes. My work revolves around conducting vulnerability assessments, penetration testing and digital forensics processes for various case scenarios and providing recommendations. Here you'll find information about my skills, contributions, and key projects.
 
 Feel free to explore and connect!
 
